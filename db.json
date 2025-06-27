@@ -1,18 +1,16 @@
 {
-  "data": [
-    {
-      "Deliverable_Id": "148-2025-034696",
-      "Published_On": "12/05/2025",
-      "QR_Code_Status": "Validated",
-      "NAME": "SAFEER ULLAH KHAN LATIF",
-      "ID": "2258303243",
-      "ISSUED_ON": "12/05/2025",
-      "VALID_UNTIL": "11/05/2026",
-      "TYPE": "SCAFFOLDING ERECTOR AND DISMANTLER",
-      "MODEL": "N/A",
-      "COMPANY": "PRIVATE",
-      "TRAINING_LOCATION": "JUBAIL",
-      "TRAINER": "ZEESHAN KHAN"
-    }
-  ]
+  "data": {
+    "Deliverable_Id": "148-2025-034696",
+    "Published_On": "12/05/2025",
+    "QR_Code_Status": "Validated",
+    "NAME": "SAFEER ULLAH KHAN LATIF",
+    "ID": "2258303243",
+    "ISSUED_ON": "12/05/2025",
+    "VALID_UNTIL": "11/05/2026",
+    "TYPE": "SCAFFOLDING ERECTOR AND DISMANTLER",
+    "MODEL": "N/A",
+    "COMPANY": "PRIVATE",
+    "TRAINING_LOCATION": "JUBAIL",
+    "TRAINER": "ZEESHAN KHAN"
+  }
 }
